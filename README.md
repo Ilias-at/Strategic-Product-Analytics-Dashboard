@@ -3,6 +3,8 @@
 ## Overview
 I developed an **executive-level Product Analytics Dashboard** that provides clear, actionable insights into revenue, profit, and trends. This dashboard enables management to make fast, informed decisions without sifting through raw data.
 
+![image alt]()
+
 ---
 
 ## My Role & Contribution
@@ -33,7 +35,7 @@ This dashboard transformed raw data into **actionable insights**, saving managem
 - **Revenue breakdown** by discount categories  
 - **Interactive dashboard features** for easy exploration by executives
 
-![Dashboard Screenshot](file:///C:/Users/user/Pictures/Screenshots/Capture%20d'%C3%A9cran%202026-03-14%20231123.png) 
+
 
 
 ---
@@ -54,10 +56,3 @@ This dashboard transformed raw data into **actionable insights**, saving managem
 
 ---
 
-## Screenshot (Optional)
-![Dashboard Screenshot](link-to-your-dashboard-image.png)
-
----
-
-## Repository / Demo (Optional)
-[Live Dashboard or Demo Link](link-to-your-dashboard-live-if-available)
