@@ -3,7 +3,7 @@
 ## Overview
 I developed an **executive-level Product Analytics Dashboard** that provides clear, actionable insights into revenue, profit, and trends. This dashboard enables management to make fast, informed decisions without sifting through raw data.
 
-![image alt]()
+![image alt](https://github.com/Ilias-at/Strategic-Product-Analytics-Dashboard/blob/main/product-analytics-dashboard.png.png?raw=true)
 
 ---
 
